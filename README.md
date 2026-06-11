@@ -1,1 +1,0 @@
-# ai-analyzer-for-github-repository
